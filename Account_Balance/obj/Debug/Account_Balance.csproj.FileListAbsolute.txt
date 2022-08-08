@@ -1,0 +1,7 @@
+C:\Users\Ametichi\source\repos\Account_Balance\Account_Balance\bin\Debug\Account_Balance.exe.config
+C:\Users\Ametichi\source\repos\Account_Balance\Account_Balance\bin\Debug\Account_Balance.exe
+C:\Users\Ametichi\source\repos\Account_Balance\Account_Balance\bin\Debug\Account_Balance.pdb
+C:\Users\Ametichi\source\repos\Account_Balance\Account_Balance\obj\Debug\Account_Balance.csproj.AssemblyReference.cache
+C:\Users\Ametichi\source\repos\Account_Balance\Account_Balance\obj\Debug\Account_Balance.csproj.CoreCompileInputs.cache
+C:\Users\Ametichi\source\repos\Account_Balance\Account_Balance\obj\Debug\Account_Balance.exe
+C:\Users\Ametichi\source\repos\Account_Balance\Account_Balance\obj\Debug\Account_Balance.pdb

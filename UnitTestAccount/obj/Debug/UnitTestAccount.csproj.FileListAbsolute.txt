@@ -1,0 +1,17 @@
+C:\Users\Ametichi\source\repos\Account_Balance\UnitTestAccount\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ametichi\source\repos\Account_Balance\UnitTestAccount\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ametichi\source\repos\Account_Balance\UnitTestAccount\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ametichi\source\repos\Account_Balance\UnitTestAccount\bin\Debug\UnitTestAccount.dll
+C:\Users\Ametichi\source\repos\Account_Balance\UnitTestAccount\bin\Debug\UnitTestAccount.pdb
+C:\Users\Ametichi\source\repos\Account_Balance\UnitTestAccount\bin\Debug\Account_Balance.exe
+C:\Users\Ametichi\source\repos\Account_Balance\UnitTestAccount\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Ametichi\source\repos\Account_Balance\UnitTestAccount\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Ametichi\source\repos\Account_Balance\UnitTestAccount\bin\Debug\Account_Balance.pdb
+C:\Users\Ametichi\source\repos\Account_Balance\UnitTestAccount\bin\Debug\Account_Balance.exe.config
+C:\Users\Ametichi\source\repos\Account_Balance\UnitTestAccount\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Ametichi\source\repos\Account_Balance\UnitTestAccount\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Ametichi\source\repos\Account_Balance\UnitTestAccount\obj\Debug\UnitTestAccount.csproj.AssemblyReference.cache
+C:\Users\Ametichi\source\repos\Account_Balance\UnitTestAccount\obj\Debug\UnitTestAccount.csproj.CoreCompileInputs.cache
+C:\Users\Ametichi\source\repos\Account_Balance\UnitTestAccount\obj\Debug\UnitTestAccount.csproj.CopyComplete
+C:\Users\Ametichi\source\repos\Account_Balance\UnitTestAccount\obj\Debug\UnitTestAccount.dll
+C:\Users\Ametichi\source\repos\Account_Balance\UnitTestAccount\obj\Debug\UnitTestAccount.pdb
